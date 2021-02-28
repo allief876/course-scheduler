@@ -1,1 +1,0 @@
-print("Sukses diimport!")
